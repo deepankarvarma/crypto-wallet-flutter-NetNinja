@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338535868240",
+    "project_id": "demoelc",
+    "storage_bucket": "demoelc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338535868240:android:d31bb7f08fae7fbc286e55",
+        "android_client_info": {
+          "package_name": "com.example.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338535868240-i72i6chhj1smb3p1bru56ivqnaonhs5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtd7_fRB0weMRSEirGjlFYbhSvALkWM1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338535868240-i72i6chhj1smb3p1bru56ivqnaonhs5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
